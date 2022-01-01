@@ -33,6 +33,6 @@
 
 
 4) To get the data of config, use dot operator
-   Example to get the max size of the nucleus in he image:
+   Example to get the max size of the nucleus in the image:
    - config.areas.max
 
