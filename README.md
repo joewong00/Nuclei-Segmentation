@@ -36,4 +36,4 @@
    Example to get the max size of the nucleus in the image:
    - config.areas.max
 
-### More info available in [wiki](https://github.com/joewong00/Nuclei-Segmentation.wiki.git)
+### More info available in [wiki](https://github.com/joewong00/Nuclei-Segmentation/wiki)
